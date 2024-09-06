@@ -1,0 +1,149 @@
+
+
+=============================================================================================================
+Key Table Information
+=============================================================================================================
+
+Table Title
+
+  Annual Geographic Information Table
+  
+-------------------------------------------------------------------------------------------------------------
+
+Table ID
+
+  GEOINFO2023.GEOINFO
+  
+-------------------------------------------------------------------------------------------------------------
+
+Survey/Program
+
+  Geography
+  
+-------------------------------------------------------------------------------------------------------------
+
+Year
+
+  2023
+  
+-------------------------------------------------------------------------------------------------------------
+
+Dataset
+
+  GEO Geography Information
+  
+-------------------------------------------------------------------------------------------------------------
+
+Release Date
+
+  August 15, 2024
+  
+-------------------------------------------------------------------------------------------------------------
+
+Sponsor
+
+  U.S. Census Bureau, U.S. Department of Commerce
+  
+-------------------------------------------------------------------------------------------------------------
+
+Dataset Universe
+
+  Geographic information available in data.census.gov for year 2023
+  
+-------------------------------------------------------------------------------------------------------------
+
+=============================================================================================================
+Methodology
+=============================================================================================================
+
+Data Items Other Records
+
+  Geographic Area Name Area (Land, in square meters) Area (Land, in square miles) Area (Water, in square meters) Area (Water, in square miles) Internal Point (Latitude) Internal Point (Longitude) For full list of all the variables including those available in the API refer to the following link: https://api.census.gov/data/2023/geoinfo/variables.html
+  
+-------------------------------------------------------------------------------------------------------------
+
+Units Observation
+
+  Geographic entity
+  
+-------------------------------------------------------------------------------------------------------------
+
+Geography Coverage
+
+  For a full list defining the geographies covered go to API https://api.census.gov/data/2023/geoinfo/geography.html
+  
+-------------------------------------------------------------------------------------------------------------
+
+Sampling
+
+  Not applicable
+  
+-------------------------------------------------------------------------------------------------------------
+
+Confidentiality
+
+  Not applicable
+  
+-------------------------------------------------------------------------------------------------------------
+
+Technical Documentation
+
+  https://www.census.gov/programs-surveys/geography/about/glossary.html
+  
+-------------------------------------------------------------------------------------------------------------
+
+Weight
+
+  Not applicable
+  
+-------------------------------------------------------------------------------------------------------------
+
+=============================================================================================================
+Table Information
+=============================================================================================================
+
+Data Notes
+
+  The Geography Information dataset (GEOINFO) contains all the geographies that are disseminated by the U.S. Census Bureau during a calendar year. The dataset combines all these disseminated geographies into one centralized location to allow for easy user access. The Geography Information dataset includes spatial attributes for the disseminated geographies, such as a point of internal latitude, a point of internal longitude, and the area of the water and land both in square meters and square miles. The geographies contained in the Geography Information dataset are the geographies disseminated for surveys and programs such as the American Community Survey, Community Resilience Estimates, Current Population Survey, Decennial Census, Economic Census, Economic Surveys, Household Pulse Survey, International Database, Population Estimates, Secondary Employment Outcomes, Public Sector, and Survey of Market Absorption. The Geography Information dataset does include island area geographies but does not contain any international geographies. The Geography Information dataset will be created annually for the calendar year prior once all of the Geographic Information Tables for the various surveys and programs are received for the year. The Geography Information dataset will be released around the early summer every year. The program will first produce a Geography Information dataset for data year 2023 and eventually produce datasets going backwards to data year 2020. The program will also produce a Geography Information dataset for every subsequent year after data year 2023. Note: The Geography Information dataset contains the geographies disseminated for the Population Estimates Program but does not currently support the release of the population estimates. Please refer to the following URL for population estimates: https://www.census.gov/programs-surveys/popest/data.html Note: The Geography Information dataset for 2023 does not include any island area geographies.
+  
+-------------------------------------------------------------------------------------------------------------
+
+FTP Download
+
+  https://www2.census.gov/programs-surveys/geoinfo/2023
+  
+-------------------------------------------------------------------------------------------------------------
+
+API Information
+
+  https://api.census.gov/data/2023/geoinfo.html
+  
+-------------------------------------------------------------------------------------------------------------
+
+Symbols
+
+  Not applicable
+  
+-------------------------------------------------------------------------------------------------------------
+
+Errata Notes
+
+  Not applicable
+  
+-------------------------------------------------------------------------------------------------------------
+
+=============================================================================================================
+Additional Information
+=============================================================================================================
+
+Contact Information
+
+  census.data@census.gov
+  
+-------------------------------------------------------------------------------------------------------------
+
+Suggested Citation
+
+  U.S. Census Bureau. \"Annual Geographic Information Table\" GeographyGeography, GEO Geography Information, Table GEOINFO, 2023, https://data.census.gov/table/GEOINFO2023.GEOINFO?q=GEOINFO: Annual Geographic Information Table Accessed on September 05, 2024.
+  
+-------------------------------------------------------------------------------------------------------------
