@@ -1,0 +1,6 @@
+baby_names:
+  outputs:
+    dev: 
+      type: duckdb
+      path: '../data/baby_names.db'
+  target: dev
